@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="mainline"></string>
+    <string name="app_name">sys_serv_check</string>
+    
+    <string name="check_button">check</string>
+    <string name="hup_button">kill -HUP</string>
+
+    <string name="menu_settings">Settings</string>
+    
+</resources> 
